@@ -1,16 +1,13 @@
-# country_directory
+# Country Directory Application
+Country Directory Application is a flutter app built by using [GraphQL API For Countries](https://countries.trevorblades.com/) 
 
-A new Flutter project.
+# Installation
+```
+gh repo clone david-adewoyin/country_directory
+or
+git clone https://github.com/david-adewoyin/country_directory.git
+flutter run
+```
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshot
+![Screenshot_20211117-001039](https://user-images.githubusercontent.com/57121852/142083076-2f3d9a45-800a-416f-8cb5-258033e5e94f.jpg)
