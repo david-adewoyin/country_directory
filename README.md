@@ -10,4 +10,4 @@ flutter run
 ```
 
 ## Screenshot
-<img src="https://user-images.githubusercontent.com/57121852/142595986-cffc67f4-ea3d-42a7-a73e-7de7c243d934.gif" height="300" alt="application screen">
+<img src="https://user-images.githubusercontent.com/57121852/142595986-cffc67f4-ea3d-42a7-a73e-7de7c243d934.gif" height="500" alt="application screen">
